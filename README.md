@@ -2,7 +2,7 @@
 
 ## Installation
 ```
-git clone https://github.com/fitri-hy/chatbot-voice-ai-python
+git clone https://github.com/fitri-hy/chatbot-voice-ai-python.git
 
 # GUI Version
 cd chatbot-voice-ai-python/gui
