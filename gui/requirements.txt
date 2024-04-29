@@ -1,0 +1,4 @@
+requests
+pygame
+gtts
+ttkthemes
