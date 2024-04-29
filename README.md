@@ -1,6 +1,6 @@
 # Chatbot Voice AI
 
-## Instalation
+## Installation
 ```
 git clone https://github.com/fitri-hy/chatbot-voice-ai-python
 
